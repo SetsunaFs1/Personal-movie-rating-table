@@ -1,0 +1,13 @@
+.form {
+  padding: 20px 20px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+}
+
+.btn-form {
+  display: block;
+  width: 100%;
+}
